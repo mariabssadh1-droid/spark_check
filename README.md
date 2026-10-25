@@ -11,7 +11,7 @@ McGill INSY 674 — Group Project (Fall 2026)
 | Surya Edakunni | [@...] |
 | Yan-Ling Lu | [@...] |
 | Natasha Sujitharaj | [@...] |
-| Cathy Vu | [@...] |
+| Cathy Vu | [@cathyvvu] |
 
 ## Overview
 Can a short survey at the start of term identify students who will experience significant
