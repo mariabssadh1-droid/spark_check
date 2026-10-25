@@ -5,13 +5,13 @@ McGill INSY 674 — Group Project (Fall 2026)
 ## Team
 | Name | GitHub |
 |---|---|
-| Maria Bssadh | [@mariabssadh1-droid](https://github.com/mariabssadh1-droid) |
-| Diana Oliván | [@dianaolig8](https://github.com/dianaolig8) |
-| Prethela Parvin Zolok | [@...](https://github.com/...) |
-| Surya Edakunni | [@...](https://github.com/...) |
-| Yan-Ling Lu | [@...](https://github.com/...) |
-| Natasha Sujitharaj | 
-| Cathy Vu | 
+| Maria Bssadh | [@mariabssadh1-droid] |
+| Diana Oliván | [@dianaolig8] |
+| Prethela Parvin Zolok | [@...] |
+| Surya Edakunni | [@...] |
+| Yan-Ling Lu |
+| Natasha Sujitharaj | [@...] |
+| Cathy Vu | [@...] |
 
 ## Overview
 Can a short survey at the start of term identify students who will experience significant
