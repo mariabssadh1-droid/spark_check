@@ -2,14 +2,14 @@
 
 McGill INSY 674 — Group Project (Fall 2026)
 
-## Team
+## Group 1
 | Name | GitHub |
 |---|---|
 | Maria Bssadh | [@mariabssadh1-droid] |
 | Diana Oliván | [@dianaolig8] |
 | Prethela Parvin Zolok | [@...] |
 | Surya Edakunni | [@...] |
-| Yan-Ling Lu |
+| Yan-Ling Lu | [@...] |
 | Natasha Sujitharaj | [@...] |
 | Cathy Vu | [@...] |
 
@@ -24,7 +24,7 @@ from start-of-term depression, loneliness, flourishing, stress, and neuroticism 
 
 ## Repository structure
 - `INSY 674-Group Project.ipynb`: full analysis, organized by the ML project checklist:
-  1. Frame the Problem · 2. Get the Data · 3. Explore the Data · 4. Prepare the Data ·
+  1. Frame the Problem · 2. Get the Data · 3. Explore the Data · 4. Prepare the Data 
   5. Measure and Compare Performance · 6. Fine-Tune the System
 
 ## How to run
