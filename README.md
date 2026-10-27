@@ -8,7 +8,7 @@ McGill INSY 674 — Group Project (Fall 2026)
 | Maria Bssadh | @mariabssadh1-droid |
 | Diana Oliván | @dianaolig8 |
 | Prethela Parvin Zolok | @prethela-parvin |
-| Surya Edakunni | @SuryaJadeEdakunni |
+| Surya Jade Edakunni | @SuryaJadeEdakunni |
 | Yan-Ling Lu | @yanling-lu |
 | Natasha Sujitharaj | @... |
 | Cathy Vu | @cathyvvu |
