@@ -20,7 +20,10 @@ predict end-of-term PHQ-9 scores (regression) and an at-risk flag, PHQ-9 ≥ 10 
 from start-of-term depression, loneliness, flourishing, stress, and neuroticism surveys.
 
 ## Key findings
-- [To be completed after modeling: best model, CV performance vs. baseline, test results]
+- **Regression:** Ridge Regression using only start-of-term PHQ-9 scores performed best, achieving a test RMSE of **2.711**, MAE of **2.051**, and R² of **0.739**. This represents a **49% reduction in RMSE** compared with the baseline mean predictor.
+- **Classification:** Logistic Regression correctly identified all 8 test students (1 at risk, 7 not at risk). However, a simple rule based on initial PHQ-9 scores achieved identical results.
+- **Predictor importance:** Baseline depression was the strongest predictor of end-of-term depressive symptoms. Adding loneliness, flourishing, stress, and neuroticism did not demonstrate a consistent improvement in predictive performance.
+- **Conclusion:** A short start-of-term depression survey shows promise for identifying students who may need additional support. However, the small sample size (38 students, including only 7 at risk) limits the reliability and generalizability of these findings.
 
 ## Repository structure
 - `INSY 674-Group Project.ipynb`: full analysis, organized by the ML project checklist:
