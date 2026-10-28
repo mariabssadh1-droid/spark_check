@@ -125,8 +125,8 @@ If you or someone you know is struggling, support is available:
 - **McGill 24/7 resources** (including GuardMe / TELUS Health Student Support, 1-844-451-9700, and McGill Students' Nightline, 514-398-6246): https://www.mcgill.ca/wellness-hub/get-support/resources-available-247
 - **Suicide Crisis Helpline:** call or text 9-8-8 (24/7, across Canada)
 - **Suicide prevention, Québec:** 1-866-APPELLE (1-866-277-3553) · text 535353 · https://suicide.ca
-
-##AI Use Disclaimer
-In preparing this assignment, our team used Claude AI and ChatGPT, two generative AI tools, to assist with the initial research process, troubleshooting code errors, summarizing other team member's work before continuing the code, fixing grammatical errors in Markdown, summarizing the highlighted sections into the GitHub README, and formatting the references section. All content produced with AI assistance was critically reviewed, verified, and edited by all team members and reflects our understanding of the assignment. All team members take full responsibility for the accuracy and academic integrity of the final submitted work.
 - **Info-Social:** 811, option 2 (24/7, Québec)
 - **In an emergency, call 911.**
+
+## AI Use Disclaimer
+In preparing this assignment, our team used Claude AI and ChatGPT, two generative AI tools, to assist with the initial research process, troubleshooting code errors, summarizing other team member's work before continuing the code, fixing grammatical errors in Markdown, summarizing the highlighted sections into the GitHub README, and formatting the references section. All content produced with AI assistance was critically reviewed, verified, and edited by all team members and reflects our understanding of the assignment. All team members take full responsibility for the accuracy and academic integrity of the final submitted work.
