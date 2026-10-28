@@ -39,7 +39,6 @@ StudentLife dataset: https://www.kaggle.com/datasets/dartweichen/student-life
 Small pilot sample (38 students, 7 at risk); results require validation at larger scale.
 
 ## References
-
 Cohen, S., Kamarck, T., & Mermelstein, R. (1983). A global measure of perceived stress. *Journal of Health and Social Behavior, 24*(4), 385–396. https://doi.org/10.2307/2136404
 
 Dartmouth College StudentLife Project. (2014). *StudentLife dataset* [Data set]. Kaggle. https://www.kaggle.com/datasets/dartweichen/student-life
@@ -58,8 +57,11 @@ Russell, D. W. (1996). UCLA Loneliness Scale (Version 3): Reliability, validity,
 
 Wang, R., Chen, F., Chen, Z., Li, T., Harari, G., Tignor, S., Zhou, X., Ben-Zeev, D., & Campbell, A. T. (2014). StudentLife: Assessing mental health, academic performance and behavioral trends of college students using smartphones. In *Proceedings of the 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp '14)* (pp. 3–14). ACM. https://doi.org/10.1145/2632048.2632054 (open-access PDF: https://www.cs.columbia.edu/~xia/publication/ubicomp14-studentlife/ubicomp14-studentlife.pdf)
 
-## Mental health resources
+Xu, X., et al. (2022). GLOBEM dataset: Multi-year datasets for longitudinal human behavior modeling generalization. In *Advances in Neural Information Processing Systems 35: Datasets and Benchmarks Track*. Dataset overview: https://the-globem.github.io/datasets/overview
 
+Xu, X., Liu, X., Zhang, H., Wang, W., Nepal, S., Kuehn, K. S., Huckins, J. F., Morris, M. E., Nurius, P. S., Riskin, E. A., Patel, S., Althoff, T., Campbell, A., Dey, A. K., & Mankoff, J. (2023). GLOBEM: Cross-dataset generalization of longitudinal human behavior modeling. *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 6*(4), Article 190. https://homes.cs.washington.edu/~althoff/docs/globem_imwut.pdf
+
+## Mental health resources
 If you or someone you know is struggling, support is available:
 
 - **McGill Student Wellness Hub:** https://www.mcgill.ca/wellness-hub · 514-398-6017
@@ -68,6 +70,3 @@ If you or someone you know is struggling, support is available:
 - **Suicide prevention, Québec:** 1-866-APPELLE (1-866-277-3553) · text 535353 · https://suicide.ca
 - **Info-Social:** 811, option 2 (24/7, Québec)
 - **In an emergency, call 911.**
-Xu, X., et al. (2022). GLOBEM dataset: Multi-year datasets for longitudinal human behavior modeling generalization. In *Advances in Neural Information Processing Systems 35: Datasets and Benchmarks Track*. Dataset overview: https://the-globem.github.io/datasets/overview
-
-Xu, X., Liu, X., Zhang, H., Wang, W., Nepal, S., Kuehn, K. S., Huckins, J. F., Morris, M. E., Nurius, P. S., Riskin, E. A., Patel, S., Althoff, T., Campbell, A., Dey, A. K., & Mankoff, J. (2023). GLOBEM: Cross-dataset generalization of longitudinal human behavior modeling. *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 6*(4), Article 190. https://homes.cs.washington.edu/~althoff/docs/globem_imwut.pdf
