@@ -10,7 +10,7 @@ McGill INSY 674 — Group Project (Fall 2026)
 | Prethela Parvin Zolok | @prethela-parvin |
 | Surya Jade Edakunni | @SuryaJadeEdakunni |
 | Yan-Ling Lu | @yanling-lu |
-| Natasha Sujitharaj | @... |
+| Natasha Sujitharaj | @natasha246 |
 | Cathy Vu | @cathyvvu |
 
 ## Overview
