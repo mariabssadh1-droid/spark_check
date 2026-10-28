@@ -79,12 +79,12 @@ Each shortlisted model was tuned with **`RandomizedSearchCV`**, searching both m
 
 ---
 
-## Repository structure
+## Repository Structure
 - `INSY 674-Group Project.ipynb`: full analysis, organized by the ML project checklist:
   1. Frame the Problem · 2. Get the Data · 3. Explore the Data · 4. Prepare the Data 
   5. Measure and Compare Performance · 6. Fine-Tune the System
 
-## How to run
+## How to Run
 1. `pip install pandas scikit-learn matplotlib seaborn "kagglehub[pandas-datasets]"`
 2. Open the notebook and run all cells. Data downloads automatically from Kaggle.
 
@@ -118,12 +118,15 @@ Xu, X., et al. (2022). GLOBEM dataset: Multi-year datasets for longitudinal huma
 
 Xu, X., Liu, X., Zhang, H., Wang, W., Nepal, S., Kuehn, K. S., Huckins, J. F., Morris, M. E., Nurius, P. S., Riskin, E. A., Patel, S., Althoff, T., Campbell, A., Dey, A. K., & Mankoff, J. (2023). GLOBEM: Cross-dataset generalization of longitudinal human behavior modeling. *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 6*(4), Article 190. https://homes.cs.washington.edu/~althoff/docs/globem_imwut.pdf
 
-## Mental health resources
+## Mental Health Resources
 If you or someone you know is struggling, support is available:
 
 - **McGill Student Wellness Hub:** https://www.mcgill.ca/wellness-hub · 514-398-6017
 - **McGill 24/7 resources** (including GuardMe / TELUS Health Student Support, 1-844-451-9700, and McGill Students' Nightline, 514-398-6246): https://www.mcgill.ca/wellness-hub/get-support/resources-available-247
 - **Suicide Crisis Helpline:** call or text 9-8-8 (24/7, across Canada)
 - **Suicide prevention, Québec:** 1-866-APPELLE (1-866-277-3553) · text 535353 · https://suicide.ca
+
+##AI Use Disclaimer
+In preparing this assignment, our team used Claude AI and ChatGPT, two generative AI tools, to assist with the initial research process, troubleshooting code errors, summarizing other team member's work before continuing the code, fixing grammatical errors in Markdown, summarizing the highlighted sections into the GitHub README, and formatting the references section. All content produced with AI assistance was critically reviewed, verified, and edited by all team members and reflects our understanding of the assignment. All team members take full responsibility for the accuracy and academic integrity of the final submitted work.
 - **Info-Social:** 811, option 2 (24/7, Québec)
 - **In an emergency, call 911.**
